@@ -14,8 +14,7 @@ Make sure that you follow all the steps listed below.
 ### 1. Copy this repository
 
 ```
-git clone
-https://github.com/syafirawulandari/UTS_PWL_BACKEND.git
+git clone https://github.com/syafirawulandari/UTS_PWL_BACKEND.git
 ```
 
 The above command will copy this repository into your computer. Wait until the clone process is finished.
