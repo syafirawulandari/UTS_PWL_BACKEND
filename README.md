@@ -129,5 +129,5 @@ You will see messages "Server run at port 6543" when you've accesd to [http://lo
 
 ## Author
 
-Hendri Aldi Zulfan | 120140186
-[henhen02](https://github.com/henhen02)
+Syafira Wulandati | 120140142
+[syafirawulandari](https://github.com/syafirawulandari)
